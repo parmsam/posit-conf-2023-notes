@@ -1,5 +1,31 @@
 # Posit Conf Day 1 Notes
 
+## From Data Confusion to Data Intelligence [KEY-1060]
+
+- getting data science started in large and small orgs can be hard
+- data science needs
+    - analysis ready data
+    - cross team support
+    - space for uncertainty
+- data science cycle
+    - scan for opportunity
+    - show don't tell
+    - take the data and run
+    - nail the landing
+    - up the ante
+- tips
+    - maximize speed and autonomy
+    - build foundation wherever possible along the way
+- data science starts with data access
+    - requires teams to set expectations
+    - lots of coordination with IT
+- knowledge architecture framework
+- need an advocate to keep the sustainable pipeline going
+    - management changes over time
+    - need to be retold the story
+- research the new technologies that are coming out
+    - useful when leadership asks what's next
+
 ## A hackers guide to open source LLMs [KEY-1107]
 
 - [nat.dev](https://github.com/nat/openplayground)
