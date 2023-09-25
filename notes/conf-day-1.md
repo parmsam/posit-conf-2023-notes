@@ -28,6 +28,9 @@
 
 ## A hackers guide to open source LLMs [KEY-1107]
 
+[video](https://www.youtube.com/watch?v=jkrNMKz9pWU&ab_channel=JeremyHoward)
+[code](https://github.com/fastai/lm-hackers)
+
 - [nat.dev](https://github.com/nat/openplayground)
     - tokens are whole words or portions of words
 - [ULMFiT 3-step approach](https://arxiv.org/abs/1801.06146)
